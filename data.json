@@ -1,0 +1,102 @@
+[
+  {
+    "id":"1",
+    "name": "Daenerys Targaryan",
+    "gender":"woman",
+    "age": "22",
+    "height": "156",
+    "weight": "48",
+    "bloodtype": "rh+",
+    "alergies": "nie"
+  },
+  {
+    "id":"2",
+    "name": "John Snow",
+    "gender":"man",
+    "age": "23",
+    "height": "175",
+    "weight": "75",
+    "bloodtype": "rh-",
+    "alergies": "ano"
+  },
+  {
+    "id":"3",
+    "name": "Cersei Lannister",
+    "gender":"woman",
+    "age": "45",
+    "height": "172",
+    "weight": "50",
+    "bloodtype": "0",
+    "alergies": "ano"
+  },
+  {
+    "id":"4",
+    "name": "Tyrion Lannister",
+    "gender":"man",
+    "age": "40",
+    "height": "149",
+    "weight": "65",
+    "bloodtype": "0",
+    "alergies": "nie"
+  },
+  {
+    "id":"5",
+    "name": "Sansa Stark",
+    "gender":"woman",
+    "age": "18",
+    "height": "160",
+    "weight": "49",
+    "bloodtype": "rh+",
+    "alergies": "ano"
+  },
+  {
+    "id":"6",
+    "name": "Arya Stark",
+    "gender":"woman",
+    "age": "16",
+    "height": "154",
+    "weight": "45",
+    "bloodtype": "rh-",
+    "alergies": "nie"
+  },
+  {
+    "id":"7",
+    "name": "Theon Greyjoy",
+    "gender":"man",
+    "age": "30",
+    "height": "176",
+    "weight": "65",
+    "bloodtype": "rh+",
+    "alergies": "ano"
+  },
+  {
+    "id":"8",
+    "name": "Sandor Clegane",
+    "gender":"man",
+    "age": "46",
+    "height": "180",
+    "weight": "95",
+    "bloodtype": "0",
+    "alergies": "nie"
+  },
+  {
+    "id":"9",
+    "name": "Brian of Tarth",
+    "gender":"woman",
+    "age": "38",
+    "height": "176",
+    "weight": "75",
+    "bloodtype": "rh+",
+    "alergies": "nie"
+  },
+  {
+    "id":"10",
+    "name": "Jorah Mormont",
+    "gender":"man",
+    "age": "43",
+    "height": "176",
+    "weight": "75",
+    "bloodtype": "rh+",
+    "alergies": "nie"
+  }
+]
